@@ -1,0 +1,58 @@
+input {
+    position: absolute;
+    left: 500px;
+    top: 100px;
+    width: 400px;
+    height: 40px;
+    border-radius: 15px; 
+    outline: none;
+    border: 1px solid #487eb0;
+    font-size: 30px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    text-align: center;
+  }
+  ::-webkit-input-placeholder {
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+  }
+  
+  :-moz-placeholder {
+    text-align: center;
+  }
+  button {
+    position: absolute;
+    top: 160px;
+    left: 665px;
+    width: 80px;
+    height: 40px;
+    
+  }
+  h1 {
+    text-align: center;
+    padding-top: 25px;
+    color: #00a8ff;
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  }
+  
+  /* css for table */
+  
+  div table thead {
+    background: blueviolet;
+    /* border-radius: 10px; */
+  }
+  div table thead th {
+    color: #fff;
+    text-transform: uppercase;
+    font-family: "Lato", sans-serif;
+  }
+  
+  tbody tr td {
+    font-family: cursive;
+  }
+  .container {
+    position: absolute;
+    top: 200px;
+    left: 47px;
+  }
+  
